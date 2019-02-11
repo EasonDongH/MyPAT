@@ -1,0 +1,3 @@
+﻿  Solution.cpp
+d:\github\mypat\pat_advancedlevel\1033 to fill or not to fill\solution.cpp(68): warning C4477: “printf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  1033 To Fill or Not to Fill.vcxproj -> D:\GitHub\MyPAT\PAT_AdvancedLevel\Debug\1033 To Fill or Not to Fill.exe
