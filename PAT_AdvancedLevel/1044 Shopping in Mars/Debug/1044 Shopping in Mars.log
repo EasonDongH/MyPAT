@@ -1,0 +1,7 @@
+﻿  Solution.cpp
+d:\github\mypat\pat_advancedlevel\1044 shopping in mars\solution.cpp(30): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“_Ty”
+          with
+          [
+              _Ty=int
+          ]
+  1044 Shopping in Mars.vcxproj -> D:\GitHub\MyPAT\PAT_AdvancedLevel\Debug\1044 Shopping in Mars.exe
